@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/apple.svg
       altText: Image alt text
       caption: Image caption
     styles:
@@ -135,7 +135,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
